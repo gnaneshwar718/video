@@ -1,21 +1,21 @@
-import MusicNoteIcon from '@mui/icons-material/MusicNote';
-import HomeIcon from '@mui/icons-material/Home';
-import CodeIcon from '@mui/icons-material/Code';
-import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
-import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
-import LiveTvIcon from '@mui/icons-material/LiveTv';
-import SchoolIcon from '@mui/icons-material/School';
-import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural';
-import CheckroomIcon from '@mui/icons-material/Checkroom';
-import GraphicEqIcon from '@mui/icons-material/GraphicEq';
-import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
-import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
-import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+ import MusicNoteIcon from '@mui/icons-material/MusicNote';
+ import HomeIcon from '@mui/icons-material/Home';
+ import CodeIcon from '@mui/icons-material/Code';
+ import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
+ import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
+ import LiveTvIcon from '@mui/icons-material/LiveTv';
+//import SchoolIcon from '@mui/icons-material/School';
+ import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural';
+//import CheckroomIcon from '@mui/icons-material/Checkroom';
+ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
+ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
+ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
+ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const logo = 'https://media2.giphy.com/media/RuRd67S6IfDEI/giphy.gif?cid=ecf05e4709a7bo9s4pa3jjy8158qysrszxdof5sgznizxkze&ep=v1_gifs_search&rid=giphy.gif&ct=g';
 
 export const categories = [
-  { name: 'home', icon: <HomeIcon />, },
+  { name: 'new ', icon: <HomeIcon />, },
   { name: 'linus tech tips', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy series hollywood', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
